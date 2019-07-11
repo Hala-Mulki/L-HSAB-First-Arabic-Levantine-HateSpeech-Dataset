@@ -32,7 +32,7 @@ Our annotation process was conducted by 3 Levantine-speaking annotators. The ann
 # Annotation Evaluation: Methods & Results
 The annotation credibility was evaluated using several evaluation measures:
 
-1- Pairwise Percent Agreement Measure (PRAM): best value between anotator 1 & annotator 3 = 87.24%
+1- Pairwise Percent Agreement Measure (PRAM): best value between annotator 1 & annotator 3 = 87.24%
 
 2- Cohen's Kappa (K): best value between annotator 1 & annotator 3 = 75.8%
 

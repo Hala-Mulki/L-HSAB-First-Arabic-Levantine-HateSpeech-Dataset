@@ -54,8 +54,13 @@ The annotation credibility was evaluated using several evaluation measures:
 
 @inproceedings{mulki2019hsab,
   title={L-HSAB: A Levantine Twitter Dataset for Hate Speech and Abusive Language},
+  
   author={Mulki, Hala and Haddad, Hatem and Ali, Chedi Bechikh and Alshabani, Halima},
+  
   booktitle={Proceedings of the Third Workshop on Abusive Language Online},
+  
   pages={111--118},
+  
   year={2019}
+  
 }

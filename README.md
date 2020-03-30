@@ -25,7 +25,7 @@ Our annotation process was conducted by 3 Levantine-speaking annotators. The ann
   a group of people and (c) demean or dehumanize that person or that group of people based on their descriptive identity (race, gender, 
   religion, disability, skin color, belief).
  
-• The annotators were provided by the nicknames usually used, within hate/abusive contexts, to refer to certain political parties, 
+• The annotators were provided with the nicknames usually used, within hate/abusive contexts, to refer to certain political parties, 
   minorities and ethnic/religion groups. For example, “تيار المستقبل” (Future Movement Party), which represents the Sunnis ethnic 
   group, is usually called by its nickname “تيار المستهبل” (Dumb Party) in hate speech contexts.
 
